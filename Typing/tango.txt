@@ -1,0 +1,33 @@
+﻿【果物】
+・AVOCADO  → アボカド
+・APRICOT  → あんず
+・STRAWBERRY   → いちご
+・fig  	 → イチジク
+・ORANGE   → オレンジ
+・persimmom  → 柿
+・KIWI 	→ キウイ
+・chestnut  → 栗
+・GRAPEFRUIT  → グレープフルーツ
+・COCONUT  → ココナッツ
+・CHERRY  → さくらんぼ
+・WATERMELON  → スイカ
+・DURIAN  → ドリアン
+・pear  → ナシ
+・PINEAPPLE  → パイナップル
+・BANANA  → バナナ
+・PAPAYA  → パパイヤ
+・loquat  → びわ
+・GRAPE  → ぶどう
+・plum  → プラム
+・BLUEBERRY  → ブルーベリー
+・MUSCAT  → マスカット
+・MUSKMELON  → マスクメロン
+・MANGO  → マンゴー
+・mandarin orange  → みかん
+・MELON  → メロン
+・PEACH  → 桃
+・YUZU  → ゆず
+・LIME  → ライム
+・RASPBERRY  → ラズベリー
+・APPLE  → りんご
+・LEMON  → レモン
